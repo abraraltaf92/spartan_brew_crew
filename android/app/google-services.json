@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718305187238",
+    "project_id": "spartan-crew-brew",
+    "storage_bucket": "spartan-crew-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718305187238:android:0fc2a0829a885b2cf4ab67",
+        "android_client_info": {
+          "package_name": "com.spartan.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718305187238-ufd5ijutifmlktg2f0r4hfor1nkbnes4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEgbuLd1JutmAb1eo4ivie70kbgwTt0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718305187238-ufd5ijutifmlktg2f0r4hfor1nkbnes4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
