@@ -20,13 +20,13 @@ Manipulation of database on large scale : !CHECK
 # Screenshots:
 
 ### Register
-![](https://github.com/abraraltaf92/spartan-crew/blob/master/lib/screenshots/Screenshot_1607982602.png)
+![](lib/screenshots/Screenshot_1607982602.png)
 ###  Database
-![](https://github.com/abraraltaf92/spartan-crew/blob/master/lib/screenshots/Screenshot%202020-12-15%20at%203.30.26%20AM%20(2).png)
+![](lib/screenshots/Screenshot%202020-12-15%20at%203.30.26%20AM%20(2).png)
 ### Sign In
-![](https://github.com/abraraltaf92/spartan-crew/blob/master/lib/screenshots/Ss.png)
+![](lib/screenshots/Ss.png)
 ### Logged In
-![](https://github.com/abraraltaf92/spartan-crew/blob/master/lib/screenshots/li.png)
+![](lib/screenshots/li.png)
 
 # Some of gifs :
 
