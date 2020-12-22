@@ -1,4 +1,4 @@
-# Learned Authorisation ( login , signup in realtime manipulation with database)
+# Learned Firebase Auth & Firestore Database ( login , signup in realtime manipulation with database)
 
 
 ## Getting Started
