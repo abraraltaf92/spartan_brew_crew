@@ -1,6 +1,8 @@
 # Learned Firebase Auth & Firestore Database ( login , signup in realtime manipulation with database)
 
+## Download from this link
 
+[Click on this link](https://drive.google.com/file/d/1MXRGpzW5diPkt4LkYq2QTpCcXNsGhg7y/view?usp=sharing)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -20,21 +22,26 @@ Manipulation of database on large scale : !CHECK
 # Screenshots:
 
 ### Register
-![](lib/screenshots/Screenshot_1607982602.png)
+![](assets/screenshots/Screenshot_1607982602.png)
 ###  Database
-![](lib/screenshots/Screenshot%202020-12-15%20at%203.30.26%20AM%20(2).png)
+![](assets/screenshots/Screenshot%202020-12-15%20at%203.30.26%20AM%20(2).png)
 ### Sign In
-![](lib/screenshots/Ss.png)
+![](assets/screenshots/Ss.png)
 ### Logged In
-![](lib/screenshots/li.png)
+![](assets/screenshots/li.png)
+## HOMEPAGE
+![](assets/screenshots/home.png)
+## EDIT PROFILE
+![](assets/screenshots/pro.png)
 
 # Some of gifs :
 
 ## SIGNUP THEN LOGIN
-![](lib/screenshots/su_si.gif) 
+![](assets/screenshots/su_si.gif) 
 
 ## SIGNIN
-![](lib/screenshots/su_si.gif)
+![](assets/screenshots/su_si.gif)
 
 ## LOADING
-![](lib/screenshots/loading.gif)
+![](assets/screenshots/loading.gif)
+
